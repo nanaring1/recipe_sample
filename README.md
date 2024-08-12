@@ -1,6 +1,6 @@
 # recipe_sample
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/a4a004ae-36b0-40f2-9970-9d640fc93425)
 
 ## Getting Started
 
